@@ -7,6 +7,8 @@ Most of what I build focuses on making technology simpler, safer, and more acces
 
 I enjoy designing networks, securing environments end-to-end, writing lightweight tooling, and improving systems until they feel effortless. Engineering, to me, is about clarity and impact — no noise, no unnecessary complexity ⚡️.
 
+I’m also open to working and collaborating on projects — whether open-source or proprietary. If something sparks my interest, I’m always willing to contribute, build, or help push it further.
+
 For my work experience, feel free to visit my LinkedIn:  
 **https://www.linkedin.com/in/majdalzadjali**
 
