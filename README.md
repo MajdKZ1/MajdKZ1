@@ -10,6 +10,6 @@ I enjoy designing networks, securing environments end to end, writing lightweigh
 I am open to working and collaborating on projects, both open source and proprietary. If something sparks my interest, I am always willing to contribute, build, or help push it further.
 
 For my work experience you can visit my LinkedIn:  
-**https:‍//www.linkedin.com/in/majdalzadjali**
+**https:‍/www.linkedin.com/in/majdalzadjali**
 
 If you want to reach me, feel free to send a DM or email me at: **almajdkhalidzad@gmail.com**
