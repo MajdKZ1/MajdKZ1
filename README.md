@@ -1,15 +1,13 @@
-# Majd AlZadjali  
-### Cybersecurity & Infrastructure Engineer 
+# Majd AlZadjali
 
-I like building things that actually matter. Systems that stay fast, secure, reliable, and useful in the real world. I’m obsessed with clean architecture, strong security foundations, and engineering solutions that remove friction instead of adding more of it.
+### Co-Founder & President, TOCF · Founder, OpenNET
 
-Most of what I build focuses on making technology simpler, safer, and more accessible. Whether it is infrastructure, automation tools, or security systems, my goal is always the same. Create something that works, is easy to maintain, and genuinely helps people.
+I like building things that actually matter. Systems that stay fast, secure, reliable, and useful in the real world. Most of what I build focuses on making technology simpler, safer, and more accessible, whether it's infrastructure, automation tools, or security systems. The goal is always the same: something that works, is easy to maintain, and genuinely helps people.
 
-I enjoy designing networks, securing environments end to end, writing lightweight tooling, and improving systems until they feel effortless. Engineering to me is about clarity and impact. No noise. No unnecessary complexity 
+I enjoy designing networks, securing environments end to end, writing lightweight tooling, and improving systems until they feel effortless. Engineering to me is about clarity and impact. If it doesn't need to be there, it's gone.
 
-I am open to working and collaborating on projects, both open source and proprietary. If something sparks my interest, I am always willing to contribute, build, or help push it further.
+I'm open to working and collaborating on projects, both open source and proprietary. If something sparks my interest, I'm always willing to contribute, build, or help push it further.
 
-For my work experience you can visit my LinkedIn:  
-**www.linkedin.com/in/majdalzadjali**
+For my work experience, visit my LinkedIn: **[linkedin.com/in/majdalzadjali](https://www.linkedin.com/in/majdalzadjali)**
 
-If you want to reach me, feel free to send a DM or email me at: **almajdkhalidzad@gmail.com**
+If you want to reach me, feel free to send an email at: **almajdkhalidzad@gmail.com**
