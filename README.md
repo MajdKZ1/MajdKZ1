@@ -1,5 +1,5 @@
 # Majd AlZadjali
-#### Chairman & Co-Founder, TOCF | Founder & Chief Architect, OpenNET | Managing Director, OpenNET Capital
+#### Chairman & Co-Founder, TOCF | Founder & CEO, OpenNET | Managing Director, OpenNET Capital
 
 I like building things that actually matter. Systems that stay fast, secure, reliable, and useful in the real world. Most of what I build focuses on making technology simpler, safer, and more accessible, whether it's infrastructure, automation tools, or security systems. The goal is always the same: something that works, is easy to maintain, and genuinely helps people.
 
